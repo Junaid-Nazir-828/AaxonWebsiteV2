@@ -8,7 +8,7 @@ export default function Nav() {
                 <div className="flex justify-between items-center xl:max-w-7xl xl:mx-auto max-w-full px-[8%] flex-wrap">
                     <Link href="/">
                         <img
-                            src={"AAxon Logo.png"}
+                            src="AAxon Logo.png"
                             alt="logo"
                             className="cursor-pointer w-40"
                         />
