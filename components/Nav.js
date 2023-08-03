@@ -5,10 +5,10 @@ export default function Nav() {
     return (
         <>
             <header className="border-b bg-white border-gray-300">
-                <div className="flex justify-between items-center xl:max-w-7xl xl:mx-auto max-w-full px-[8%] flex-wrap">
+                <div className="lg:flex justify-between items-center xl:max-w-7xl xl:mx-auto max-w-full px-[8%] flex-wrap">
                     <Link href="/">
                         <img
-                            src="AAxon Logo.png"
+                            src="aaxonlogo.png"
                             alt="logo"
                             className="cursor-pointer w-40"
                         />
